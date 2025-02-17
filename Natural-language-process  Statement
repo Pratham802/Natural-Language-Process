@@ -1,0 +1,8 @@
+Problem Statement
+In this project, we will use Natural Language Processing (NLP) techniques to predict customer sentiment from real Amazon Echo customer reviews.
+
+AI/ML-based sentiment analysis is crucial for companies to automatically predict whether their customers are happy or not.
+
+The process could be done automatically without having humans manually review thousands of customer reviews.
+Results
+Here we see that our macro avg is 0.88 and weighted avg is 0.95 which is slightly better. Of course depending on if you are trying to optimize for precision for example or are you trying to optimize for recall. F one score is the harmonic mean between precision and recall. So overall F one score is 0.97 on class and 0.58 on class zero.
